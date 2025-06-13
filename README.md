@@ -1,4 +1,4 @@
-# Stable-homology-of-braid-groups-and-of-moduli-of-hyperelliptic-curves
+# Stable-homology-of-braid-groups-and-moduli-of-hyperelliptic-curves
 
 Data computed in connection with the article [BDPW]: *Hyperelliptic curves, the scanning map, and moments of families of quadratic $L$-functions*, arXiv:2302.07664, by Jonas Bergström, 
 Adrian Diaconu, Dan Petersen and Craig Westerland.
