@@ -1,3 +1,8 @@
+# Stable-homology-of-moduli-of-hyperelliptic-curves-and-braid-groups
+
+Description
+-----------
+
 This data set contains dimensions of stable homology groups of the moduli space of hyperelliptic
 curves with coefficients in a local system of small weight. It was computed using Corollary 10.0.9
 of [BDPW]: "J. Bergström, A. Diaconu, D. Petersen and C. Westerland, Hyperelliptic curves, the
