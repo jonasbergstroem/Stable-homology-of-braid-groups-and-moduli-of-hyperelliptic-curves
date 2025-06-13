@@ -1,4 +1,4 @@
-# Stable-homology-of-moduli-of-hyperelliptic-curves-and-braid-groups
+# Stable-homology-of-braid-groups-and-of-moduli-of-hyperelliptic-curves
 
 Description
 -----------
