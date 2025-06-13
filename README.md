@@ -1,7 +1,9 @@
 # Stable-homology-of-braid-groups-and-of-moduli-of-hyperelliptic-curves
 
-Description
------------
+Data computed in connection with the article [BDPW]: *Hyperelliptic curves, the scanning map, and moments of families of quadratic $L$-functions*, arXiv:2302.07664, by Jonas Bergström, 
+Adrian Diaconu, Dan Petersen and Craig Westerland.
+
+## Description of data 
 
 This data set contains dimensions of stable homology groups of the moduli space of hyperelliptic
 curves with coefficients in a local system of small weight. It was computed using Corollary 10.0.9
