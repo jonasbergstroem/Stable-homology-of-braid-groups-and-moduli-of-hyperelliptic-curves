@@ -15,4 +15,4 @@ Note that by Theorem 7.0.6 together with Theorem 10.0.12 of [BDPW] we know that 
 
 -The file "cohBraidlocNonzero.txt" contains a list of all [lambda,\dim H_k(\beta_{infty},S^{\lambda}(V))] such that \dim H_k(\beta_{infty},S^{\lambda}(V)) is non-zero for k=1,..,5, using Theorem 7.0.2 of [BDPW].
 
--The file "cohBraidlocNonzero.txt" contains a list of all [lambda,\dim H_k(H_{infty},V_{\lambda})] such that \dim H_k(H_{infty},V_{\lambda}) is non-zero for k=1,..,5, using Remark 10.0.13 of [BDPW].
+-The file "cohHyplocNonzero.txt" contains a list of all [lambda,\dim H_k(H_{infty},V_{\lambda})] such that \dim H_k(H_{infty},V_{\lambda}) is non-zero for k=1,..,5, using Remark 10.0.13 of [BDPW].
